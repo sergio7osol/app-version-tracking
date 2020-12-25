@@ -1,0 +1,6 @@
+# Januar 2018
+## 01/30/2018
+
+Get unescaped text value of current node and its children. Like innerText. (slow for the first time)Get unescaped text value of current node and its children. Like innerText. (slow for the first time)...
+
+![image](http://localhost:3000/releases/img/release-2.png =450x220)

@@ -1,0 +1,5 @@
+create-release:
+how should the files be created: the name of the file, object properties in index for it.  
+    - for filtering purposes the name should be (obvious for releases) a timeline. Not the time of release creation - we could create a release also for the past. So - we should specify the time on release creation ourself (probably using lightbox).
+    - name as a date - for readability (DD/MM/YYYY-hh:mm:ss) - is gonna be used as an ID in index.json.
+    

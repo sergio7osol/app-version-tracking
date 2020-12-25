@@ -1,0 +1,4 @@
+# September 2018
+##### 2018.09.27
+
+In addition to the install schematic, Angular Material comes with multiple schematics that can be used to easily generate Material Design componentsIn addition to the install schematic, Angular Material comes with multiple schematics that can be used to easily generate Material Design components...

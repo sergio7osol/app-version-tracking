@@ -1,0 +1,6 @@
+# Januar 2019
+##### 01/27/2019
+
+Inspector also includes an HTTP endpoint to serve metadata about the debuggee, including its WebSocket URL, UUID, and Chrome DevTools URL. Get this metadata by sending an HTTP request to http://[host:port]/json/list. This returns a JSON object like the following; use the webSocketDebuggerUrl property as the URL to connect directly to Inspector.
+
+![image](http://localhost:3000/releases/img/release-3.png =400x250)

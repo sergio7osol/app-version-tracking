@@ -1,0 +1,5 @@
+# Dezember 2018
+#### 2018.12.25
+We have released the next version of our software for calibration of 3-5 axes machines. The new release has a vast number of improvements regarding ...
+
+![image](http://localhost:3000/releases/img/release-1.png =500x160)
